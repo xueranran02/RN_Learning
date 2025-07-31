@@ -1,5 +1,5 @@
 # RN_Learning
-效果展示
+效果展示，包含Text, View, Button, StyleSheet，Navigator以及一些基础的动画。
 
 
 
